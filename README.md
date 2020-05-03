@@ -2,6 +2,13 @@
 
 # "Tower Topper"     
 
+<p float="left">
+  <img src="https://github.com/HerndonE/Battlezone-Missions/blob/master/Hold%20Out%20Mission/ExampleConfig/MapHoldOut/Images/scene6.jpg" width="400" />
+  <img src="https://github.com/HerndonE/Battlezone-Missions/blob/master/Hold%20Out%20Mission/ExampleConfig/MapHoldOut/Images/scene1.jpg" width="400" /> 
+  <img src="https://github.com/HerndonE/Battlezone-Missions/blob/master/Hold%20Out%20Mission/ExampleConfig/MapHoldOut/Images/scene2.jpg" width="400" />
+  <img src="https://github.com/HerndonE/Battlezone-Missions/blob/master/Hold%20Out%20Mission/ExampleConfig/MapHoldOut/Images/scene3.jpg" width="400" />
+</p>
+
 # Game Identity / Mantra:     
 Build a tower with blocks that fall from the sky and make the tallest tower you can without it leaning over.        
 # Design Pillars:    
@@ -33,7 +40,7 @@ Stretch goal background changes periodically with tower height (ground, clouds, 
 2. [PC/Mac/Linux Executable]()    
 	Controls:        
 	"A" - Move left    
-	"D" - Move Right
+	"D" - Move Right    
 	Cursor - Navigate around the game    
 3. [Google Play Store]()
 
