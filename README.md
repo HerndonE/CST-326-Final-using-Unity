@@ -30,7 +30,7 @@ Stretch goal background changes periodically with tower height (ground, clouds, 
     
 # Downloadable links    
 1. [APK File](https://drive.google.com/uc?id=1_vx5k-SFnfeXmO6y89Ya_OWb7lKycQge&export=download)
-2. [PC/Mac/Linux Executable]()
+2. [PC/Mac/Linux Executable]()    
 	Controls:        
 	"A" - Move left    
 	"D" - Move Right
@@ -48,7 +48,9 @@ Submission Date: 5-5-2020
 <th align="center"><a href="https://github.com/cvcsumb"><img src="https://avatars3.githubusercontent.com/u/46950170?s=460&u=5d20259656411cc51335db20f58ec5283c6767c4&v=4" width="100px;" style="max-width:100%;"><sub><br><b>Claudio Vertemara</b></sub></a><br></th>
 </tr>
 </thead>
- 
-[Ken Miller](https://www.videoventure.org/) - Loading Screen
+
+    
+    
+[Ken Miller](https://www.videoventure.org/) - Loading Screen    
 [PredaHunter](https://steamcommunity.com/profiles/76561198065368630/myworkshopfiles/) - App Icon
 
