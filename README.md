@@ -37,7 +37,7 @@ Stretch goal background changes periodically with tower height (ground, clouds, 
     
 # Downloadable links    
 1. [APK File](https://drive.google.com/uc?id=1_vx5k-SFnfeXmO6y89Ya_OWb7lKycQge&export=download)
-2. [PC/Mac/Linux Executable]()    
+2. [PC,Mac,Linux Executable](https://drive.google.com/uc?id=1c_8xHUZIir9ISMYnINYkxb0lb7TyMyzi&export=download)  
 	Controls:        
 	"A" - Move left    
 	"D" - Move Right    
